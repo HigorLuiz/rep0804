@@ -1,2 +1,3 @@
 # rep0804
-Tarefa do Thiago
+Anna Laura
+Higor Luiz
